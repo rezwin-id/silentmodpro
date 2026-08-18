@@ -10,12 +10,5 @@
       "spammer_hwid_2"
     ]
   },
-  "keys": {
-    "DP-8TN02P": {
-      "status": "approved",
-      "max_devices": 1,
-      "expiry_date": "2026-08-21",
-      "hwid": []
-    }
-  }
+  "keys": {}
 }
