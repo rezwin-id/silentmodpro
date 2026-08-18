@@ -10,14 +10,5 @@
       "spammer_hwid_2"
     ]
   },
-  "keys": {
-    "DP-A10X4G": {
-      "status": "approved",
-      "max_devices": 1,
-      "expiry_date": "2026-08-19",
-      "hwid": [
-        "86466c44086ac3ca"
-      ]
-    }
-  }
+  "keys": {}
 }
